@@ -8,6 +8,6 @@ redis = "localhost"
 # when running inside docker container 
 # redis = "redis_server"
 ### gpt-3.5-turbo-1106	
-pineconeQueryIndexapiendpoint = "http://34.130.80.81:5000/queryindex"
+pineconeQueryIndexapiendpoint = ""
 # Summariserapi = 
-getagentkbmetadataurl = "http://34.130.80.81:5000/getagentkbmetadata"
+getagentkbmetadataurl = ""
